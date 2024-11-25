@@ -22,7 +22,6 @@
 ![Current Location Memunculkan null karena tidak ada lokasinya](https://github.com/user-attachments/assets/845a7bec-27f3-4f68-a64a-ec47d78c108b)
 
 #Lalu Location ketiga Hasil bisa diakses melalui web
-![Json web](https://github.com/user-attachments/assets/e96f4b6f-61d4-4f54-aa3e-f776e0aa153f)
 ![Hasil Location Akhir](https://github.com/user-attachments/assets/9b877126-2cec-4c14-9d6c-3a798109f53f)
 
 #Navigation Color Tampilan Pertama
