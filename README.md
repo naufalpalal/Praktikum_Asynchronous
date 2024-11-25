@@ -4,6 +4,7 @@
 ![1](https://github.com/user-attachments/assets/8d8c9774-df27-4cd5-a5aa-ee8bc04a44a7)
 
 #Tampilan Angka (Kode Pertama yaitu memberikaan waktu pemrossessan Kode kedua hampir sama kegunaanya untuk menghitung waktu yang ada diatas atau sebelumnya)
+
 ![2](https://github.com/user-attachments/assets/3174db17-abd7-4f0a-aebc-5a2aed1676b8)
 
 #Gif angka berubah dari 42 ke 6
