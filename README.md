@@ -30,7 +30,8 @@
 ![Tampilan kedua Navigation 2](https://github.com/user-attachments/assets/cba5f5ae-3764-4d7d-a249-3a21d9c7bd94)
 
 #Hasil Akhir Tampilan Navigation
-![Hasil Akhir gif](https://github.com/user-attachments/assets/cee0ed8a-d72d-4874-a529-5749ff67e0b3)
+![Hasil Akhir gif](https://github.com/user-attachments/assets/4777f063-7501-4240-9f10-de7eb7c716d3)
+
 
 
 
